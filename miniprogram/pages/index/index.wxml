@@ -1,0 +1,24 @@
+
+<view class="container">
+    <image src= "../img/background.jpg" style="width: 750rpx; height: 1200rpx; display: inline-block; box-sizing: content-box; position: absolute; left: 0rpx; top: -15rpx"></image>
+
+    <view class="up" style="position: absolute; left: 195rpx; top: 434rpx; width: 361rpx; height: 153rpx; display: block; box-sizing: border-box; font-size: 70rpx; font-style: italic; font-weight: 900">
+        博饼demo
+    </view>
+    <view class="up" style="position: absolute; left: 640rpx; top: 1137rpx">
+        Rules
+    </view>
+    <view class="up" style="position: absolute; left: 180rpx; top: 938rpx; width: 392rpx; height: 90rpx; display: block; box-sizing: border-box; font-size: 25rpx">
+        press CREATE to create a game 
+        or 
+        press JION to enter a exiting game
+    </view>
+    <button style="position: relative; left: 0rpx; top: 685rpx; width: 361rpx; height: 127rpx; display: block; box-sizing: border-box; color: white; background: dodgerblue">JION</button>
+    <button style="position: relative; left: 0rpx; top: 685rpx; width: 361rpx; height: 127rpx; display: block; box-sizing: border-box; color: white; background: deepskyblue">CREATE</button>
+
+</view>
+
+
+
+
+

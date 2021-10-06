@@ -1,0 +1,17 @@
+<!--pages/main_page/main_page.wxml-->
+<view class="container">
+    <image src= "../img/background.jpg" style="width: 750rpx; height: 1200rpx; display: inline-block; box-sizing: content-box; position: absolute; left: 0rpx; top: 0rpx"></image>
+    <view class="up" style="position: absolute; left: 568rpx; top: 52rpx">
+        RECORD
+    </view>
+    <image src="../img/bowl.png" style="width: 507rpx; height: 511rpx; display: block; box-sizing: border-box; left: 115rpx; top: 383rpx; position: absolute"></image>
+    <image src="../img/1.png" style="width: 80rpx; height: 75rpx; display: block; box-sizing: border-box; left: 160rpx; top: 600rpx; position: absolute"></image>
+    <image src="../img/1.png" style="width: 80rpx; height: 75rpx; display: block; box-sizing: border-box; left: 240rpx; top: 446rpx; position: absolute"></image>
+    <image src="../img/1.png" style="width: 80rpx; height: 75rpx; display: block; box-sizing: border-box; left: 415rpx; top: 446rpx; position: absolute"></image>
+    <image src="../img/1.png" style="width: 80rpx; height: 75rpx; display: block; box-sizing: border-box; left: 496rpx; top: 600rpx; position: absolute"></image>
+    <image src="../img/1.png" style="width: 80rpx; height: 75rpx; display: block; box-sizing: border-box; left: 240rpx; top: 756rpx; position: absolute"></image>
+    <image src="../img/1.png" style="width: 80rpx; height: 75rpx; display: block; box-sizing: border-box; left: 415rpx; top: 755rpx; position: absolute"></image>
+    <button style="position: relative; left: -2rpx; top: 875rpx; width: 404rpx; height: 190rpx; display: block; box-sizing: border-box; color: white; background: dodgerblue; text-align: center; line-height: 202rpx; font-size: 100rpx">ROLL</button>
+    <BUtton style="position: relative; left: -288rpx; top: 893rpx; width: 176rpx; height: 75rpx; display: block; box-sizing: border-box; color: white; background: dodgerblue; line-height: 75rpx; font-size: 35rpx; text-align: center">setting</BUtton>
+
+</view>

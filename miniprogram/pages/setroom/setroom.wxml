@@ -1,0 +1,8 @@
+<!--pages/setroom/setroom.wxml-->
+
+<view class="container">
+    <image src= "../img/background.jpg" style="width: 750rpx; height: 1200rpx; display: inline-block; box-sizing: content-box; position: absolute; left: 0rpx; top: 0rpx"></image>
+    <button style="position: relative; left: 247rpx; top: 101rpx; width: 188rpx; height: 75rpx; display: block; box-sizing: border-box; color: white; background: dodgerblue; font-size: 30rpx; line-height: 75rpx; align-items: center">Back</button>
+    <button style="position: relative; left: 247rpx; top: 973rpx; width: 188rpx; height: 75rpx; display: block; box-sizing: border-box; color: white; background: deepskyblue; line-height: 75rpx; font-size: 30rpx; align-items: center">mutile</button>
+    <button style="position: relative; left: -223rpx; top: 898rpx; width: 188rpx; height: 75rpx; display: block; box-sizing: border-box; color: white; background: dodgerblue; font-size: 30rpx; line-height: 75rpx; align-items: center">local</button>
+</view>

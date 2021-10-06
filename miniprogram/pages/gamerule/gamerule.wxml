@@ -1,0 +1,5 @@
+<!--pages/gamerule/gamerule.wxml-->
+<view class="container">
+    <image src= "../img/awardrules.png" style="width: 750rpx; height: 1200rpx; display: inline-block; box-sizing: content-box; position: absolute; left: 0rpx; top: -15rpx"></image>
+    <button style="position: relative; left: -276rpx; top: 31rpx; width: 122rpx; height: 68rpx; display: block; box-sizing: border-box; color: white; background: dodgerblue; text-align: center; line-height: 68rpx; font-size: 20rpx">Back</button>
+</view>
